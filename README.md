@@ -4,6 +4,7 @@
 1. Create directory (mkdir)
 2. Create index.js file (touch)
 3. Initialise NPM (npm init -y)
+   
 Add this in package.json
 ```
 "type": "module"
