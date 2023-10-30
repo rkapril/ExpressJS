@@ -26,4 +26,21 @@ app.listen(port, () => {
 1. Pre-processing (body-parser)
 2. Authentication
 3. Logging (morgan)
-4. Error
+```
+import express from "express";
+import morgan from "morgan";
+
+const app = express();
+const port = 3000;
+
+app.use(morgan("tiny"));
+
+app.get("/", (req, res) => {
+  res.send("Hello");
+});
+
+app.listen(port, () => {
+  console.log(`Listening on port ${port}`);
+});
+```
+5. Error
