@@ -23,7 +23,7 @@ app.listen(port, () => {
 7. Start server (node index.js)
 
 ## Middleware
-1. Pre-processing
+1. Pre-processing (body-parser)
 2. Authentication
-3. Logging
+3. Logging (Morgan)
 4. Error
