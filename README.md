@@ -22,7 +22,7 @@ app.listen(port, () => {
 ```
 7. Start server (node index.js)
 
-## Midddleware
+## Middleware
 1. Pre-processing
 2. Authentication
 3. Logging
