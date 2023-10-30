@@ -25,5 +25,5 @@ app.listen(port, () => {
 ## Middleware
 1. Pre-processing (body-parser)
 2. Authentication
-3. Logging (Morgan)
+3. Logging (morgan)
 4. Error
