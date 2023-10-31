@@ -1,4 +1,6 @@
 # ExpressJS
+![image](https://github.com/rkapril/ExpressJS/assets/61505106/dba74789-b30e-45e5-a96a-f5135dff221e)
+
 ## Creating an Express Server
 
 1. Create directory (mkdir)
