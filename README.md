@@ -93,7 +93,7 @@ app.listen(port, () => {
   console.log(`Listening on port ${port}`);
 });
 ```
-## Connect with PostgreSQL
+## Connect with PostgreSQL (node-postgres)
 ```
 import Client from "pg";
 
