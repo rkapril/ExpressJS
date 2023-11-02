@@ -114,7 +114,7 @@ db.query("SELECT * FROM users", (err, res) => {
      console.log("User data:". res.rows);
    }
 
-   deb.end();
+   db.end();
 });
 ```
       
